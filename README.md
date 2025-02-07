@@ -32,6 +32,6 @@ Open the .ppm file in Photoshop to see it and save its .png file:
 
 ### Box Projection
 
-Known: Coordinates of six vertices, width and height of our canvas(in this part width=height);
+Known: Coordinates of six vertices, width and height of our canvas, use the function **_projection_**;
 
 Compile and run to print the Projection coordinates on the console.
