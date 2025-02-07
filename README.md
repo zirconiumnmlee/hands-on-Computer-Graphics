@@ -27,3 +27,11 @@ We will see file `raytracer.ppm` in now dictionary after running.
 Open the .ppm file in Photoshop to see it and save its .png file:
 
 ![raytracer](./raytracer/raytracer.png)
+
+---
+
+### Box Projection
+
+Known: Coordinates of six vertices, width and height of our canvas(in this part width=height);
+
+Compile and run to print the Projection coordinates on the console.
