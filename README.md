@@ -1,8 +1,8 @@
 # hands-on-Computer-Graphics
 
-That is a project about simple computer graphics for beginers,with the tutoriel: [Scratchapixel](https://www.scratchapixel.com/index.html "Scratchapixel").
+That is a project about simple computer graphics for beginners,with the tutoriel: [Scratchapixel](https://www.scratchapixel.com/index.html "Scratchapixel").
 
-And it will include my creation about **_CG_** in the future.
+And it will include my creation of **_CG_** in the future.
 
 ---
 
@@ -26,4 +26,4 @@ We will see file `raytracer.ppm` in now dictionary after running.
 
 Open the .ppm file in Photoshop to see it and save its .png file:
 
-![raytracer](.\raytracer\raytracer.png)
+![raytracer](./raytracer/raytracer.png)
